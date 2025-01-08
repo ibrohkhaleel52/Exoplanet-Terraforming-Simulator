@@ -15,3 +15,5 @@ P
  tests/simulation-results.test.ts,9/c/9c4c44454b2ba6250d23e6c0535253f0cd1b85b3
 L
 contracts/exoplanet-nft.clar,1/4/14694d824796d00bb9b7bea1ad63f464ffcd451a
+K
+tests/exoplanet-nft.test.ts,c/a/cad390af5f101b52e87a08ad3f3fed24da9fe466
