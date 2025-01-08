@@ -9,3 +9,5 @@ T
 $contracts/terraforming-strategy.clar,d/1/d1812fba2b724e916a9bb67d8ddeb90aad5c2701
 S
 #tests/terraforming-strategy.test.ts,b/b/bb56740487d70fbb5cd72e318965605b0a71cf13
+Q
+!contracts/simulation-results.clar,d/1/d1087ddb1b007a2eef36545b25f969b77ff70fd0
