@@ -9,6 +9,21 @@ requirements = []
 path = 'contracts/exoplanet-management.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.exoplanet-nft]
+path = 'contracts/exoplanet-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.simulation-results]
+path = 'contracts/simulation-results.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.terraforming-strategy]
+path = 'contracts/terraforming-strategy.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
