@@ -13,3 +13,5 @@ Q
 !contracts/simulation-results.clar,d/1/d1087ddb1b007a2eef36545b25f969b77ff70fd0
 P
  tests/simulation-results.test.ts,9/c/9c4c44454b2ba6250d23e6c0535253f0cd1b85b3
+L
+contracts/exoplanet-nft.clar,1/4/14694d824796d00bb9b7bea1ad63f464ffcd451a
